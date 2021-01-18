@@ -8,6 +8,8 @@ This repository demonstrates my use and implementation of the fastAi framework t
 # Table of Contents
 
 1. A2_Aiman.ipynb
+
+
 2. A2_Model_2.ipynb
 
 # Instructions
@@ -20,5 +22,7 @@ A2_Model_2.ipynb utilizies the 2019 version of FastAi's implementation of semant
 # FastAi
 Website:
 https://www.fast.ai/
+
+
 Documentation:
 https://docs.fast.ai/
